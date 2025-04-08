@@ -8,12 +8,12 @@ A hardware monitoring tool built for windows with real-time system statistics an
 
 ## Features
 -Real time monitoring of:
-  -CPU usage/temperature
-  -GPU usage/temperature
-  -RAM usage
-  -Disk storage
--Low resource consumption
--Simple easy to understand GUI
+  -CPU usage/temperature  
+  -GPU usage/temperature  
+  -RAM usage  
+  -Disk storage  
+-Low resource consumption  
+-Simple easy to understand GUI  
 
 ## Installation
 
@@ -22,11 +22,11 @@ Download the most recent release (1.5) and run the .exe file. This will use an i
 **Alternatively, to build it yourself:**
 
 ### Requirements
--Python 3.8+
--pip package manager
+-Python 3.8+  
+-pip package manager  
 
 # Clone repository
-git clone https://github.com/Natecaud/Hardware-Monitor.git
+git clone https://github.com/Natecaud/Hardware-Monitor.git  
 cd Hardware-Monitor
 
 # Install dependencies
