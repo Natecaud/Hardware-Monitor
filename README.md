@@ -44,3 +44,4 @@ Contributions are welcome! To contribute, follow these guidelines:
 -Core functionality powered by [psutil](https://github.com/giampaolo/psutil)  
 -GPU monitoring using [GPUtil](https://github.com/anderskm/gputil)  
 -Windows support via [pywin32](https://github.com/mhammond/pywin32)  
+-CPU temperature monitoring using [OpenHardwareMonitor](https://openhardwaremonitor.org)
