@@ -41,6 +41,6 @@ Contributions are welcome! To contribute, follow these guidelines:
 5. Open a pull request
 
 ## Acknowledgements
--Core functionality powered by [psutil](https://github.com/giampaolo/psutil) < br/ >
--GPU monitoring using [GPUtil](https://github.com/anderskm/gputil) < br/ >
--Windows support via [pywin32](https://github.com/mhammond/pywin32) < br/ >
+-Core functionality powered by [psutil](https://github.com/giampaolo/psutil)  
+-GPU monitoring using [GPUtil](https://github.com/anderskm/gputil)  
+-Windows support via [pywin32](https://github.com/mhammond/pywin32)  
