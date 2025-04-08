@@ -7,7 +7,7 @@ A hardware monitoring tool built for windows with real-time system statistics an
 ![Hardware Monitor Interface](screenshots/hm_screenshot.png)
 
 ## Features
--Real time monitoring of:
+-Real time monitoring of:  
   -CPU usage/temperature  
   -GPU usage/temperature  
   -RAM usage  
